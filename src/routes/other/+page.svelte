@@ -5,4 +5,3 @@
 {#each cats as cat}
 <img src="/img/{cat.id}" />
 {/each}
-<a href="/other">other route</a>
